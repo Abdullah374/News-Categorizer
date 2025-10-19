@@ -38,6 +38,7 @@ logistic, vectorizer = load_model()
 st.set_page_config(page_title="📰 News Category Predictor", layout="centered")
 
 st.title("📰 News Category Classifier")
+st.write("By Abdullah Ibrahim Dar")
 st.write("Enter a news headline or short text to predict its category using a trained Logistic Regression model.")
 
 # Text Input
