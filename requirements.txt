@@ -1,5 +1,10 @@
 streamlit
-scikit-learn
 nltk
-pandas
+scikit-learn
+pillow
 numpy
+opencv-python-headless
+easyocr
+torch
+torchvision
+torchaudio
